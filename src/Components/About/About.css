@@ -1,0 +1,36 @@
+color{
+    background-color:lightblue;
+}
+.about{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 300px;
+    font-family:'Times New Roman', Times, serif
+}
+.about-section{
+    position: absolute;
+    margin: 170px 100px;
+    font-size: 1.5rem;
+}
+.image{
+    position: absolute;
+    /* background-size: cover; */
+    margin: 6em 70em;
+    border-radius: 1em;
+   
+}
+
+#frontend{
+position: absolute;
+margin:12em 28em;
+font-size: 0.7em;
+}
+.about-down{
+    position: absolute;
+    background-color: #fff;
+    margin: 25em 7em;
+    width:50em;
+    height:8em;
+    border-radius: 5px;
+    background-color:lightblue;
+}
